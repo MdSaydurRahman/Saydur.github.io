@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology, 2017
 
 Work experience
 ======
