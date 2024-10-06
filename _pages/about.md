@@ -16,7 +16,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 1. **MS Rahman**, and Y. Hua, "Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper," accepted in *58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2024.
 
-2. Y. Hua, and **MS Rahman**, "Unification of Secret Key Generation and Wiretap Channel Transmission," in *IEEE International Conference on Communications*, Denver, CO, USA, 2024.
+2. Y. Hua, and **MS Rahman**, "Unification of Secret Key Generation and Wiretap Channel Transmission," in *IEEE International Conference on Communications (ICC)*, Denver, CO, USA, 2024.
 
 3. Y. Hua, **MS Rahman**, and A. Swami, "A Method for Low-Latency Secure Multiple Access," in *IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN)*, Boston, MA, USA, 2024.
 
@@ -24,13 +24,13 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 5. MSI Sajol, ASMJ Hasan, MS Islam, and **MS Rahman**, "Transforming Social Media Analysis: TweetEval Benchmarking with Advanced Transformer Models," in *IEEE ISMIT 2024*.
 
-6. MSI Sajol, ASMJ Hasan, MS Islam, and **MS Rahman**, "A ConvNeXt V2 Approach to Document Image Analysis: Enhancing High-Accuracy Classification," in *IEEE CITDS*, Louisiana, USA, 2024.
+6. MSI Sajol, ASMJ Hasan, MS Islam, and **MS Rahman**, "A ConvNeXt V2 Approach to Document Image Analysis: Enhancing High-Accuracy Classification," in *IEEE CITDS*, 2024.
 
 7. MS Islam, ASMJ Hasan, **MS Rahman**, J Yusuf, MSI Sajol, and FA Tumpa, "Location Agnostic Source-Free Domain Adaptive Learning to Predict Solar Power Generation," in *IEEE International Conference on Energy Technologies for Future Grids (ETFG)*, Wollongong, Australia, 2023, pp. 1-6.
 
-8. MSI Sajol, MS Islam, ASMJ Hasan, **MS Rahman**, and J Yusuf, "Wind Power Prediction across Different Locations using Deep Domain Adaptive Learning," in *IEEE GPECOM*, Budapest, Hungary, 2024.
+8. MSI Sajol, MS Islam, ASMJ Hasan, **MS Rahman**, and J Yusuf, "Wind Power Prediction across Different Locations using Deep Domain Adaptive Learning," in *IEEE GPECOM*, 2024.
 
-9. MSB Hossain, MS Islam, M S Haque, and **MS Rahman**, "Gait Phase Classification from sEMG in Multiple Locomotion Modes Using Deep Learning," in *International Congress on Information and Communication Technology*, UK, 2024.
+9. MSB Hossain, MS Islam, M S Haque, and **MS Rahman**, "Gait Phase Classification from sEMG in Multiple Locomotion Modes Using Deep Learning," in *International Congress on Information and Communication Technology (ICICT)*, UK, 2024.
 
 10. ASMJ Hasan, **MS Rahman**, MS Islam, and J Yusuf, "Data Driven Energy Theft Localization in a Distribution Network," in *ICICT4SD*, 2023.
 
