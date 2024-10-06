@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md Saydur Rahman/ Site Title"
-title_separator          : "-"
+title                    : "Md Saydur Rahman"
+title_separator          : ""
 name                     : &name "Md Saydur Rahman"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
