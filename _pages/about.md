@@ -12,7 +12,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 
 
-## Selected Publications
+## Publications
 
 1. **MS Rahman**, and Y. Hua, "Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper," accepted in *58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2024.
 
