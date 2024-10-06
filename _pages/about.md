@@ -39,11 +39,11 @@ Work experience
 
 7. ASMJ Hasan, MS Islam, **MS Rahman**, MSI Sajol, J Yusuf, "Deep Learning Based Cross-Location Building Load Prediction Using Domain Adaptation," in *IEEE EPEi*, 2024
 
-8. MS Islam, ASMJ Hasan, **MS Rahman**, J Yusuf, MSI Sajol, and FA Tumpa, "Location Agnostic Source-Free Domain Adaptive Learning to Predict Solar Power Generation," in *IEEE International Conference on Energy Technologies for Future Grids (ETFG)*, Wollongong, Australia, 2023, pp. 1-6.
+8. MSB Hossain, MS Islam, M S Haque, and **MS Rahman**, "Gait Phase Classification from sEMG in Multiple Locomotion Modes Using Deep Learning," in *International Congress on Information and Communication Technology (ICICT)*, UK, 2024.
 
 9. MSI Sajol, MS Islam, ASMJ Hasan, **MS Rahman**, and J Yusuf, "Wind Power Prediction across Different Locations using Deep Domain Adaptive Learning," in *IEEE GPECOM*, 2024.
 
-10. MSB Hossain, MS Islam, M S Haque, and **MS Rahman**, "Gait Phase Classification from sEMG in Multiple Locomotion Modes Using Deep Learning," in *International Congress on Information and Communication Technology (ICICT)*, UK, 2024.
+10.  MS Islam, ASMJ Hasan, **MS Rahman**, J Yusuf, MSI Sajol, and FA Tumpa, "Location Agnostic Source-Free Domain Adaptive Learning to Predict Solar Power Generation," in *IEEE International Conference on Energy Technologies for Future Grids (ETFG)*, Wollongong, Australia, 2023, pp. 1-6.
 
 11. ASMJ Hasan, **MS Rahman**, MS Islam, and J Yusuf, "Data Driven Energy Theft Localization in a Distribution Network," in *ICICT4SD*, 2023.
 
