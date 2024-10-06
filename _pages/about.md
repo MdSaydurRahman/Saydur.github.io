@@ -7,23 +7,15 @@ redirect_from:
   - /about.html
 ---
 ---
-layout: home
-
 ---
 
-# Hello, I'm Md Saydur Rahman
-Welcome to my personal website. I am a researcher at the University of California, Riverside. 
+Hello! I’m Md Saydur Rahman, a passionate researcher and PhD student at the University of California, Riverside. My work focuses on cutting-edge topics in computer science and engineering, where I am constantly exploring new methods and technologies to solve complex problems.
 
-Here you will find my research work, publications, and projects.
+I have a strong interest in areas like machine learning, networking, and distributed systems, and have published several papers on these topics. My goal is to contribute to advancements in the field through both theoretical research and practical applications.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In addition to my academic pursuits, I enjoy collaborating on open-source projects and mentoring students who are eager to dive into the exciting world of research.
+
+Feel free to explore my website to learn more about my publications, projects, and ongoing work!
 
 Site-wide configuration
 ------
