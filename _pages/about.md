@@ -19,10 +19,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant at University of California Riverside (2020-present)
+* Teaching Assistant at University of California Riverside (2021-2023)
+* Lecturer at Northern University of Bangladesh (2018-2020)
     
 ## Latest Publications
 
