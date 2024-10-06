@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 ---
-
+Hi Everyone, I am Md Saydur Rahman and I am from Dhaka, Bangladesh. Currently, I am a Ph.D. student in Electrical Engineering at University of California Riverside. Before that, I completed my master’s in the Department of Electrical and Computer Engineering at Southern Illinois University Carbondale (2020) and I earned my Bachelor of Science in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET) in 2014. Currently, I am working as a Research Assistant in NUWiNS Lab under the supervision of Dr. Dimitrios Koutsonikolas. My research interest involves ensuring end-to-end performance, mobility, and reliablity in 5G/6G networks.
 Hello! I’m Md Saydur Rahman, a passionate researcher and PhD student at the University of California, Riverside. My work focuses on cutting-edge topics in wireless security and deep learning, where I am constantly exploring new methods and technologies to solve complex problems.
 
 I have a strong interest in areas like machine learning, networking, and distributed systems, and have published several papers on these topics. My goal is to contribute to advancements in the field through both theoretical research and practical applications.
