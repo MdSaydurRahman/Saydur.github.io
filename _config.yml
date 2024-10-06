@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.jpg"
-  name             : "Saydur"
+  name             : #"Saydur"
   pronouns         : # example: "he/him"  
   bio              : ""
   location         : "Riverside"
