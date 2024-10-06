@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 
-Hello! I’m Md Saydur Rahman, a passionate researcher and PhD student at the University of California, Riverside. My work focuses on cutting-edge topics in computer science and engineering, where I am constantly exploring new methods and technologies to solve complex problems.
+Hello! I’m Md Saydur Rahman, a passionate researcher and PhD student at the University of California, Riverside. My work focuses on cutting-edge topics in wireless security and deep learning, where I am constantly exploring new methods and technologies to solve complex problems.
 
 I have a strong interest in areas like machine learning, networking, and distributed systems, and have published several papers on these topics. My goal is to contribute to advancements in the field through both theoretical research and practical applications.
 
