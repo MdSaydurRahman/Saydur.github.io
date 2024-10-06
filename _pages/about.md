@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the University of California Riverside (UCR), and I am expected to graduate in 2025. Currently, I am working as a Research Assistant under the supervision of Dr. Yingbo Hua. My research interest involves Wireless Physical Layer Security, 5g Low-latency Communication, Domain adaptation-based Deep learning, and Federated learning.
-![Md Saydur Rahman](./images/profile_pic.jpg)
+
 
 
 Education
