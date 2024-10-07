@@ -16,18 +16,17 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="wordwrap">  You can also find my latest articles/publications on  <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>. </div>
 
 <div class="news-section">
-  <h2>Latest News and Publications</h2>
+  <h2>Latest News</h2>
 
   <li> October 2024: Paper Presented at the <em>Asilomar on Pacific Grove</em>.</li>
-  
 
-  <li> August 2024 <strong>Best Paper Award</strong>: Received the <em>Best Paper Award</em> at the <em>IEEE LANMAN</em>.</li>
+  <li> August 2024: <strong>Best Paper Award</strong>: Received the <em>Best Paper Award</em> at the <em>IEEE LANMAN</em>.</li>
   
-  <h6>June 2024</h6>
-  <ul style="margin: 0; padding: 0;">
-    <li>Paper Presented at the <em>IEEE ICC</em>.</li>
-  </ul>
-</div>
+  <li>June 2024: Paper Presented at the <em>IEEE ICC</em>.</li>
+
+  
+ 
+  </div>
 
 
 
