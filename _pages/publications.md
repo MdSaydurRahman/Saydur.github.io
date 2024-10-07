@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="wordwrap">
-  You can also find my articles on 
+  You can also find my latest articles/publications on 
   <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.
 </div>
 
@@ -16,9 +16,6 @@ author_profile: true
 
 
 
-    
-Latest Publications
-=======
 
 * **MS Rahman**, and Y. Hua, "Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper," accepted in *58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2024.
 
