@@ -18,10 +18,10 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="news-section">
   <h2>Latest News</h2>
 
-  <li> October 2024: Paper Presented at the <em>Asilomar on Pacific Grove</em>.</li>
+  <li> October 2024: Paper Presented at the <em>Asilomar on Pacific Grove.</em>.</li>
   <li> August 2024: Received the <strong>Best Paper Award</strong> at the <em>IEEE LANMAN</em>.</li>
   <li>June 2024: Paper Presented at the <em>IEEE ICC</em>.</li>
-  <li>March 2024: Got Masters' in Electrical Engineering from UC Riverside<li>
+  <li>March 2024: Got Masters' in Electrical Engineering from UC Riverside.<li>
   <li>September 2023: Passwed the PhD Qualifier Exam.<li>
   <li>August 2023: Journal Accepted at <em>IEEE Transaction on Signal Processing</em>.</li>
 
