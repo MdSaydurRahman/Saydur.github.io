@@ -21,19 +21,20 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
   <h3>October 2024</h3>
   <ul>
-    <li><strong>New Paper Published</strong>: Excited to share that my latest paper on <em>"Physical Layer Security for Wiretap Channels in Dynamic Environments"</em> has been accepted at the <em>IEEE Journal on Selected Areas in Communications</em>. You can find more details <a href="link-to-the-paper">here</a>.</li>
+    <li><strong>Paper Presentation</strong>: I will present my latest paper on <em>"Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper"</em> at the <em>Asilomar on Pacific Grove</em>.</li>
   </ul>
 
   <h3>August 2024</h3>
   <ul>
-    <li><strong>Best Paper Award</strong>: I received the <em>Best Paper Award</em> at the <em>IEEE LANMAN Conference 2024</em> for my paper titled <em>"Enhancing Security in Federated Learning Systems"</em>.</li>
+    <li><strong>Best Paper Award</strong>: We received the <em>Best Paper Award</em> at the <em>IEEE LANMAN Conference 2024</em> for our paper titled <em>"A Method for Low-Latency Secure Multiple Access"</em>.</li>
   </ul>
 
   <h3>June 2024</h3>
   <ul>
-    <li><strong>New Collaboration</strong>: I’ve started an exciting collaboration with researchers from <em>Institution X</em> to explore new techniques in <em>Domain Adaptation for Secure Communications</em>.</li>
+    <li><strong>Paper Presentation</strong>: Our paper <em>"Unification of Secret Key Generation and Wiretap Channel Transmission"</em> was presented at <em>ICC, Denver, Colorado</em>.</li>
   </ul>
 </div>
+
 
 ---
 
