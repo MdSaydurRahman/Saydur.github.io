@@ -16,16 +16,24 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="wordwrap">  You can also find my latest articles/publications on  <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>. </div>
 
 ## Latest News 
+<div class="news-section">
+  <h2>Latest News and Publications</h2>
 
-# October 2024
-- **Paper Present**: I will present my latest paper on *"Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper"* at the *Asilomar on Pacific Grove.
+  <h3>October 2024</h3>
+  <ul>
+    <li><strong>New Paper Published</strong>: Excited to share that my latest paper on <em>"Physical Layer Security for Wiretap Channels in Dynamic Environments"</em> has been accepted at the <em>IEEE Journal on Selected Areas in Communications</em>. You can find more details <a href="link-to-the-paper">here</a>.</li>
+  </ul>
 
-# August 2024
-- **Best Paper Award**: We received the *Best Paper Award* at the *IEEE LANMAN Conference 2024* for our paper titled *"A Method for Low-Latency Secure Multiple Access"*.
+  <h3>August 2024</h3>
+  <ul>
+    <li><strong>Best Paper Award</strong>: I received the <em>Best Paper Award</em> at the <em>IEEE LANMAN Conference 2024</em> for my paper titled <em>"Enhancing Security in Federated Learning Systems"</em>.</li>
+  </ul>
 
-# June 2024
-- **Paper Present**: Our paper *"Unification of Secret Key Generation and Wiretap Channel Transmission"* has been presented in ICC, Denver, Colorado.
-  
-  
+  <h3>June 2024</h3>
+  <ul>
+    <li><strong>New Collaboration</strong>: I’ve started an exciting collaboration with researchers from <em>Institution X</em> to explore new techniques in <em>Domain Adaptation for Secure Communications</em>.</li>
+  </ul>
+</div>
+
 ---
 
