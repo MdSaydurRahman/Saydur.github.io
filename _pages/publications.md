@@ -10,7 +10,7 @@ author_profile: true
   <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.
 </div>
 
-{% endif %}
+
 
 
 
