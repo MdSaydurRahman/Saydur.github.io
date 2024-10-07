@@ -24,7 +24,12 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   
   <li>June 2024: Paper Presented at the <em>IEEE ICC</em>.</li>
 
-  
+  <li>March 2024: Got Masters' from UC Riverside<li>
+
+  <li>September 2023: Passwed the PhD Qualifier Exam.<li>
+
+  <li>August 2023: Journal Accepted at <em>IEEE Transaction on Signal Processing</em>.</li>
+
  
   </div>
 
