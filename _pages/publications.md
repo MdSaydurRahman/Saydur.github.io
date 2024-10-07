@@ -5,10 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap">
-  You can also find my latest articles/publications on 
-  <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.
-</div>
+
 
 
 
