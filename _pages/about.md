@@ -5,7 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
------
+
+
 
  <h2 style="color:  #007BFF;">Bio</h2>
 
