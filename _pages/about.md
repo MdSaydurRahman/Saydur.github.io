@@ -17,7 +17,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   You can also find my latest articles/publications on  
   <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1" style="color: blue;">Google Scholar</a>. </div>
 <div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1H2VCjDajsfCnlu8bJtW7rtqU1AkKkoMK/view" style="color: blue;">CV</a>. </div>
-
+Contact: I can be reached at mrahm054@ucr.edu
 <div class="news-section">
   <h2 style="color:  #007BFF;">Latest News</h2>
 
