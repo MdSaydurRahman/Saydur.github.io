@@ -18,7 +18,7 @@ author_profile: true
 
 * Y. Hua, and **MS Rahman**, "Unification of Secret Key Generation and Wiretap Channel Transmission," in *IEEE International Conference on Communications (ICC)*, Denver, CO, USA, 2024.
 
-* Y. Hua, **MS Rahman**, and A. Swami, "A Method for Low-Latency Secure Multiple Access," in *IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN)*, Boston, MA, USA, 2024. <strong style="color: red;">Best Paper Award</strong>
+* Y. Hua, **MS Rahman**, and A. Swami, "A Method for Low-Latency Secure Multiple Access," in *IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN)*, Boston, MA, USA, 2024. (<strong style="color: red;">Best Paper Award</strong>)
 
 * Y. Hua, Q. Liang, and **MS Rahman**, "Secure Degree of Freedom of Wireless Networks Using Collaborative Pilots," *IEEE Transactions on Signal Processing*, vol. 71, pp. 3755-3771, 2023.
 
