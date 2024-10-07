@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 ---
-I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the University of California Riverside (UCR), and I am expected to graduate in 2025. Currently, I am working as a Research Assistant under the supervision of Dr. Yingbo Hua. My research interest involves Wireless Physical Layer Security, 5g Low-latency Communication, Domain adaptation-based Deep learning, and Federated learning.
+I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the University of California Riverside (UCR), and I am expected to graduate in 2025. Currently, I am working as a Research Assistant under the supervision of Dr. Yingbo Hua. My research interest involves Wireless Physical Layer Security, 5g Low-latency Communication, Domain adaptation-based Deep learning, and Federated learning. You can find my latest publications in my google scholar. 
 
 
 
@@ -26,7 +26,7 @@ Work experience
     
 ## Latest Publications
 
-1. **MS Rahman**, and Y. Hua, "Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper," accepted in *58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2024.
+* **MS Rahman**, and Y. Hua, "Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper," accepted in *58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2024.
 
 2. Y. Hua, and **MS Rahman**, "Unification of Secret Key Generation and Wiretap Channel Transmission," in *IEEE International Conference on Communications (ICC)*, Denver, CO, USA, 2024.
 
