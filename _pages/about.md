@@ -25,7 +25,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
   <h5>August 2024</h5>
   <ul style="margin: 0; padding: 0;">
-    <li><strong>Best Paper Award</strong>: Received the <em>Best Paper Award</em> at the <em>IEEE LANMAN Conference 2024</em>.</li>
+    <li><strong>Best Paper Award</strong>: Received the <em>Best Paper Award</em> at the <em>IEEE LANMAN</em>.</li>
   </ul>
 
   <h6>June 2024</h6>
