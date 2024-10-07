@@ -24,9 +24,9 @@ author:
   avatar           : "saydur_pp2.JPG"
   name             : #"Saydur"
   pronouns         : # example: "he/him"  
-  bio              : ""
+  bio              : #""
   location         : "Riverside, CA, USA"
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "mrahm054@ucr.edu" 
 
