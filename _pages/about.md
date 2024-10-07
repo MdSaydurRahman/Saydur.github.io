@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D in Electrical Engineering at University of California Riverside (expected 2025)
 * M.S. in Electrical Engineering at University of California Riverside (March 2024)
-* B.S. in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology, 2017
+* B.S. in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (BUET, 2017)
 
 Work experience
 ======
