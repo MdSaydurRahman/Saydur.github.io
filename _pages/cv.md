@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my updated <a href="https://drive.google.com/file/d/1DKcP0dYiO0xED58zJqwP-dxGAyXSBvIZ/view?usp=sharing" style="color: blue;">CV</a> here. 
+You can find my updated <a href="https://drive.google.com/file/d/1g8TKk-dQo5wxPrOqyS6hOfrZyRQPWQ6I/view?usp=sharing" style="color: blue;">CV</a> here. 
 
