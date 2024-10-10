@@ -13,7 +13,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="wordwrap">  
   You can also find my latest articles/publications on  
   <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1" style="color: blue;">Google Scholar</a>. </div>
-<div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1DKcP0dYiO0xED58zJqwP-dxGAyXSBvIZ/view?usp=sharing" style="color: blue;">CV</a>. </div>
+<div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1g8TKk-dQo5wxPrOqyS6hOfrZyRQPWQ6I/view?usp=sharing" style="color: blue;">CV</a>. </div>
 
 <div class="news-section">
   <h2 style="color:  #0f0e0e;">Latest News</h2>
