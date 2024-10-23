@@ -11,7 +11,8 @@ author_profile: True
 <br><br>
 
 
-<img src="https://raw.githubusercontent.com/yourusername/Saydur.github.io/main/images/steep1.png" alt="STEEP Principle Diagram" style="max-width: 60%; height: auto;">
+<img src="https://raw.githubusercontent.com/MdSaydurRahman/Saydur.github.io/master/images/steep1.png" alt="STEEP Principle Diagram" style="max-width: 60%; height: auto;">
+
 
 <br><br>
 
