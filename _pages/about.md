@@ -24,6 +24,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 - **Master's Degree**: University of California, Riverside (UCR), March 2024  
 
 - **Bachelor's Degree**: Bangladesh University of Engineering and Technology (BUET), 2017
+ <br>
  
 <br>
 
