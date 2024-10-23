@@ -6,8 +6,8 @@ main:
   #- title: "Portfolio"
    # url: /portfolio/
     
-    -title: "Terms and Privacy Policy"
-    url: /terms/
+    #-title: "Terms and Privacy Policy"
+    #url: /terms/
 
   #- title: "Teaching"
   #  url: /teaching/    
