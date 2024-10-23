@@ -19,7 +19,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 <h1 style="color: #0f0e0e;">Education</h1>  
 
-- **PhD**: Ongoing at UCR, expected completion by 2025  
+- **PhD**: Ongoing at University of California, Riverside (UCR), expected completion by 2025  
 
 - **Master's Degree**: University of California, Riverside (UCR), March 2024  
 
