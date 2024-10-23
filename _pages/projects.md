@@ -8,17 +8,15 @@ author_profile: True
    
 <h3 style="color: #0f0e0e;">Security with novel STEEP in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
 "STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
-<br><br>
-
-<img src="../images/steep1.drawio.png" alt="STEEP Principle" style="max-width: 60%; height: auto;">
 
 
-<br><br>
+<img src="../images/steep1.drawio.png" alt="STEEP Principle" style="max-width: 50%; height: auto;">
+
 
 In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob.  STEEP does not require full-duplex, channel reciprocity, or knowledge of Eve's channel state information, yet it can achieve a positive secrecy rate as long as Eve's channel is not noiseless. This paper provides insights into the statistical behaviors of STEEP's secrecy capacity under random channel fading and compares it with conventional half-duplex two-way schemes. The analysis shows that STEEP can maintain a positive secrecy rate even when Eve's channel is stronger than the main channel, a property not available in prior schemes. The paper includes theoretical analysis, computer simulations, and comparisons to demonstrate the effectiveness and robustness of STEEP in various scenarios.
  
 
-
+<br>
 
 <h3 style="color: #0f0e0e;">Unmanned Aerial Vehicle Against Jamming</h3>  
 In this UAV communication against jamming, we first consider a network as illustrated in Fig. Here Alice and Eve are ground stations with \( n_A \) and \( n_E \) antennas respectively. Eve is capable of jamming and receiving in full-duplex. Bob is the UAV with a single antenna. Unmanned Aerial Vehicle (UAV) assisted wireless communication has emerged as a highly promising element in the landscape of future wireless networks. This work investigates the application of “Secret-message Transmission by Echoing Encrypted Probes (STEEP)” to secure UAV communications between a ground station (Alice) and a UAV (Bob). Even with the presence of strong jamming from a full-duplex eavesdropper (Eve), STEEP shows resilience and maintains a strong positive secrecy rate in bits per channel use in every channel coherence period as long as Eve’s observations during the probing phase of STEEP are not noiseless.
@@ -38,8 +36,6 @@ For applications like Virtual Reality, Artificial Intelligence, federated learni
 
 <h3 style="color: #0f0e0e;">SDoF Using Collaborative Pilots</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
 It explores the secure degree-of-freedom (SDoF) of a wireless network comprising full-duplex nodes that utilize anti-eavesdropping channel estimation (ANECE) based on collaborative pilots. It demonstrates that a positive SDoF can be achieved, regardless of the eavesdropper's antenna count. The study analyzes the secret-key capacity (SKC) of node pairs over multiple collaborative nodes within a channel coherence period, with each ANECE transmission consisting of two phases: one for pilot transmission and the other for random symbols. It shows the lower and upper bounds for the SDoF of ANECE and presents several critical findings: the SDoF for pilot transmission is consistent across multi-user and pair-wise ANECE, although the latter requires more time slots; in a three-user network, the phase-2 SDoF for all-user ANECE exceeds that of pair-wise ANECE; and a modified ANECE using square-shaped nonsingular pilot matrices enhances total SDoF in two-user networks. The results indicate that multi-user ANECE and the modified two-user ANECE represent optimal full-duplex schemes for achieving SDoF with specific antenna constraints for both transmission and reception.  Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
-
-
 
 <br>
 
