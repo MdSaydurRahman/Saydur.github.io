@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <h2 style="color:  #0f0e0e;">Bio</h2>
+ <h1 style="color:  #0f0e0e;">Bio</h1>
 
 I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the University of California Riverside (UCR), and I am expected to graduate in 2025. I have completed my Bachelor's from Bangladesh University of Engineering and Technology (BUET). Currently, I am working as a Research Assistant under the supervision of Professor 
 <a href="https://intra.ece.ucr.edu/~yhua/" style="color: blue;">Yingbo Hua</a>. My research interest involves Wireless Physical Layer Security, 5g Low-latency Communication, Domain adaptation-based Deep learning, and Federated learning. 
@@ -16,7 +16,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1g8TKk-dQo5wxPrOqyS6hOfrZyRQPWQ6I/view?usp=sharing" style="color: blue;">CV</a>. </div>
 
 <div class="news-section">
-  <h2 style="color:  #0f0e0e;">Latest News</h2>
+  <h1 style="color:  #0f0e0e;">Latest News</h1>
 
   <li> Oct 2024: Paper presented at the <em>Asilomar </em> in Pacific Grove.</li>
   <li> Sep 2024: Poster presented at <em>Department of Defense NC4</em>.</li>
@@ -34,11 +34,14 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   <li> Oct 2020: Started Ph.D at UC Riverside</li>
   <li> Nov 2019: Paper accepted at the <em>IEEE RAAICON</em>.</li>
  
-   <h2 style="color:  #0f0e0e;">Projects</h2>
+   <h1 style="color:  #0f0e0e;">Projects</h1>
    
 
 <h5 style="color: #0f0e0e;">Security in Wiretap Channel</h5>  
-"STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers.  
+"STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob. In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob. For a SISO probing channel from Alice to Bob, along with high capacities from Bob to both Alice and Eve, the secrecy capacity of STEEP can be made to approach its optimal level.  
+<a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a>  
+<br>
+
 <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a>  
 <br>
 
