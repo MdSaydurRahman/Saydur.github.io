@@ -28,7 +28,7 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 <a href="#" style="color: blue;">Asilomar'24</a>  
 
 
-
+<br>
 
 <h3 style="color: #0f0e0e;">Low-Latency Multi-Access (MA) STEEP</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10621876" style="color: blue;">LANMAN'24</a> 
 
