@@ -1,10 +1,9 @@
-
-
+---
 layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: True
-
+---
 
    
 <h3 style="color: #0f0e0e;">Security in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
@@ -68,7 +67,10 @@ having an explicit pre-trained model in a domain-specific dataset (document data
 <img src="images/colage.jpg" style="max-width: 70%; height: auto;">  
 <br><br>
 <br>
-{% for post in site.portfolio %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
