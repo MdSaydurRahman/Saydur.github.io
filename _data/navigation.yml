@@ -4,15 +4,7 @@ main:
     url: /publications/
 
 - title: "Projects"
-    url: /projects/
-  #- title: "Portfolio"
-   # url: /portfolio/
-    
-    #-title: "Terms and Privacy Policy"
-    #url: /terms/
-
-  #- title: "Teaching"
-  #  url: /teaching/    
+    url: /projects/ 
       
   - title: "CV"
     url: /cv/
