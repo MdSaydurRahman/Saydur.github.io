@@ -16,6 +16,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1g8TKk-dQo5wxPrOqyS6hOfrZyRQPWQ6I/view?usp=sharing" style="color: blue;">CV</a>. </div>
 
 <br>
+
 <h1 style="color: #0f0e0e;">Education</h1>  
 
 - **PhD**: Ongoing at UCR, expected completion by 2025  
@@ -44,8 +45,10 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   <li> Sep 2022: Poster presented at <em>Department of Defense NC4</em></li>
   <li> Oct 2020: Started Ph.D at UC Riverside</li>
   <li> Nov 2019: Paper accepted at the <em>IEEE RAAICON</em>.</li>
+  
  <br>
-   <h1 style="color:  #0f0e0e;">Projects</h1>
+  
+  <h1 style="color:  #0f0e0e;">Projects</h1>
    
 
 <h4 style="color: #0f0e0e;">Security in Wiretap Channel</h4>  
