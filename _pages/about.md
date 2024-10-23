@@ -25,7 +25,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 - **Bachelor's Degree**: Bangladesh University of Engineering and Technology (BUET), 2017
  
-<be>
+<br>
 
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
