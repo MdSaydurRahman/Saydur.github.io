@@ -57,7 +57,9 @@ our proposed method predicts solar/wind power generation or building load at one
 
 <h3 style="color: #0f0e0e;">Gait Phase Classification</h3>  <a href="https://link.springer.com/chapter/10.1007/978-981-97-3562-4_29" style="color: blue;">ICICT'24</a> 
 
-A novel deep learning model incorporating Bi-GRU and transformer encoders with a gating mechanism efficiently regulates the flow of information between encoders. Achieving better accuracy in most cases, the model includes several locomotion modes, surpassing prior research focused solely on simple level-ground conditions.  
+A novel deep learning model incorporating Bi-GRU and transformer encoders with a gating mechanism efficiently regulates the flow of information between encoders. This study focuses on classifying gait phases—walking, upstairs, and downstairs—using electromyography (EMG) signals from nine specific muscles. A novel deep learning model, Bi-GRU-Transformer-Net, is proposed, which integrates Bi-GRU and transformer encoders via a gating mechanism. This model enhances classification accuracy compared to existing approaches. An accuracy improvement of up to 5.10% for the downstairs phase and 11.59% for the upstairs phase. Overall, the model demonstrates a performance improvement of up to 11.68% across various locomotion modes compared to the Bi-LSTM-Net. The model effectively utilizes batch-normalized EMG signals to classify gait phases, indicating its potential for applications in assistive technology, exoskeleton control, and disease monitoring. Achieving better accuracy in most cases, the model includes several locomotion modes, surpassing prior research focused solely on simple level-ground conditions.  
+<img src="../images/gait.png" alt="STEEP Principle" style="max-width: 90%; height: auto;">
+
 
 <br>
 
