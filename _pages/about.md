@@ -65,11 +65,14 @@ In phase 2, Bob echoes back his estimated probes encrypted by a secret message m
 <br>
 
 ---
-
 <h4 style="color: #0f0e0e;">UAV Against Jamming</h4>  
-In the presence of strong jamming from a full-duplex eavesdropper, the novel scheme "STEEP" maintains a strong positive secrecy rate in bits per channel use during each channel coherence period. Theoretical and numerical results demonstrate secure aerial communication even against a stronger ground jammer.  
+In this paper, we first consider a network as illustrated in Fig. \ref{fig:mesh1}, which is similar to that in \cite{Liu_2019}. Here Alice and Eve are ground stations with \( n_A \) and \( n_E \) antennas respectively. Eve is capable of jamming and receiving in full-duplex. Bob is the UAV with a single antenna. Unmanned Aerial Vehicle (UAV) assisted wireless communication has emerged as a highly promising element in the landscape of future wireless networks. This paper investigates the application of “Secret-message Transmission by Echoing Encrypted Probes (STEEP)” to secure UAV communications between a ground station (Alice) and a UAV (Bob). Even with the presence of strong jamming from a full-duplex eavesdropper (Eve), STEEP shows resilience and maintains a strong positive secrecy rate in bits per channel use in every channel coherence period as long as Eve’s observations during the probing phase of STEEP are not noiseless.
+
+<img src="images/steep1.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 60%; height: auto;">  
+<br><br>
+The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per channel use during each channel coherence period. Theoretical and numerical results demonstrate secure aerial communication even against a stronger ground jammer.  
 <a href="#" style="color: blue;">Asilomar'24</a>  
-<br>
+
 
 ---
 
