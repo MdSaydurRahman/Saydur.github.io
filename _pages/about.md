@@ -80,9 +80,9 @@ For applications like Virtual Reality, Artificial Intelligence, federated learni
 
 <br>
 
-<h3 style="color: #0f0e0e;">SDoF Using Collaborative Pilots</h3>  
+<h3 style="color: #0f0e0e;">SDoF Using Collaborative Pilots</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
 The Secure Degree of Freedom (SDoF) of a multi-user, multi-antenna, full-duplex wireless network with secret information transmission is analyzed using multi-user, multi-antenna ANECE against multi-antenna Eve. Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
-<a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
+
 
 
 <br>
