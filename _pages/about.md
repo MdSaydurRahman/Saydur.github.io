@@ -16,13 +16,15 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1g8TKk-dQo5wxPrOqyS6hOfrZyRQPWQ6I/view?usp=sharing" style="color: blue;">CV</a>. </div>
 
 <br>
-<h5 style="color: #0f0e0e;">Education</h5>  
-
-- **Bachelor's Degree**: Bangladesh University of Engineering and Technology (BUET), 2017  
-- **Master's Degree**: University of California, Riverside (UCR), March 2024  
+<h1 style="color: #0f0e0e;">Education</h1>  
 - **PhD**: Ongoing at UCR, expected completion by 2025  
 
-<br>
+- **Master's Degree**: University of California, Riverside (UCR), March 2024  
+
+- **Bachelor's Degree**: Bangladesh University of Engineering and Technology (BUET), 2017
+- 
+<be>
+
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
 
