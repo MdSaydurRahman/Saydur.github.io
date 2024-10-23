@@ -6,7 +6,7 @@ author_profile: True
 ---
 
    
-<h3 style="color: #0f0e0e;">Security in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
+<h3 style="color: #0f0e0e;">Security with novel STEEP in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
 "STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
 <br><br>
 
@@ -17,7 +17,7 @@ author_profile: True
 
 In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob.  STEEP does not require full-duplex, channel reciprocity, or knowledge of Eve's channel state information, yet it can achieve a positive secrecy rate as long as Eve's channel is not noiseless. This paper provides insights into the statistical behaviors of STEEP's secrecy capacity under random channel fading and compares it with conventional half-duplex two-way schemes. The analysis shows that STEEP can maintain a positive secrecy rate even when Eve's channel is stronger than the main channel, a property not available in prior schemes. The paper includes theoretical analysis, computer simulations, and comparisons to demonstrate the effectiveness and robustness of STEEP in various scenarios.
  
-<img src="../images/steep1.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 60%; height: auto;">
+<img src="../images/steep1.drawio.png" alt="STEEP Principle" style="max-width: 60%; height: auto;">
 
 
 <h3 style="color: #0f0e0e;">Unmanned Aerial Vehicle Against Jamming</h3>  
@@ -47,8 +47,9 @@ It explores the secure degree-of-freedom (SDoF) of a wireless network comprising
 <h3 style="color: #0f0e0e;">Domain Adaptation</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10407265" style="color: blue;">ETFG'23</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10582569" style="color: blue;">GPECOM'24</a>  
 Evaluating source-free domain adaptation models in location-based adaptive learning for weather forecasting, building load, and solar/wind power prediction. A pre-trained model from the source domain is utilized for prediction tasks, assuming no source data during target domain prediction. The weights of only the last few layers of the DNN model are updated, making the model faster compared to traditional approaches.  
 
-<img src="images/overview_domain_adaptation.png" style="max-width: 85%; height: auto;">  
-<br><br>
+<img src="../images/overview_domain_adaptation.png" alt="STEEP Principle" style="max-width: 90%; height: auto;">
+
+
 our proposed method predicts solar/wind power generation or building load at one location using a pre-trained model from another location, involving two datasets: the source domain (for training) and the target domain (for adaptation). The source data is not available on the target side, so we adapt the pre-trained model by updating only the last two layers, reducing computational costs. We train a feed-forward deep convolutional neural network using source data, formulating it as a classification task. The network consists of convolutional, batch normalization, and fully connected layers, guided by the cross-entropy (CE) loss. On the target side, we update the pre-trained weights from the source using target data. We focus on adapting only the last two fully connected layers, which significantly influence the output.
 
 <br>
@@ -64,9 +65,9 @@ A novel deep learning model incorporating Bi-GRU and transformer encoders with a
 we have adopted the recently developed high-performance deep CNN model ConvNext V2, which mimics this self-attention mechanism through masked
 autoencoding for document classification purposes. Applied to the popular Tobacco-3482 document image classification dataset, ConvNext V2 achieved very high accuracy in classifying each document type. The method also demonstrated rapid convergence, requiring only a few epochs. Furthermore, a comparison of results with other state-of-the-art methods reveals that the applied method in this paper performs much better than them in terms of classification accuracy without
 having an explicit pre-trained model in a domain-specific dataset (document dataset). The ConvNext V2 model, which incorporates elements of self-attention from transformers, significantly improves document image classification performance on the Tobacco-3482 dataset, achieving a 92.25% accuracy with fast convergence. This suggests that pre-training on ImageNet alone can be highly effective without additional domain-specific training.  
+<img src="../images/colage.jpg" alt="STEEP Principle" style="max-width: 90%; height: auto;">
+ 
 
-<img src="images/colage.jpg" style="max-width: 70%; height: auto;">  
-<br><br>
 <br>
 
 {% include base_path %}
