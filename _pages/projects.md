@@ -10,7 +10,8 @@ author_profile: True
 "STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
 <br><br>
 
-<img src="/images/steep1.png" alt="STEEP Principle Diagram" style="max-width: 60%; height: auto;">
+
+<img src="../images/steep1.png" alt="STEEP Principle Diagram" style="max-width: 60%; height: auto;">
 
 <br><br>
 
