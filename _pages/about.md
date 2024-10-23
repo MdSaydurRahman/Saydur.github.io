@@ -109,7 +109,7 @@ we have adopted the recently developed high-performance deep CNN model ConvNext 
 autoencoding for document classification purposes. Applied to the popular Tobacco-3482 document image classification dataset, ConvNext V2 achieved very high accuracy in classifying each document type. The method also demonstrated rapid convergence, requiring only a few epochs. Furthermore, a comparison of results with other state-of-the-art methods reveals that the applied method in this paper performs much better than them in terms of classification accuracy without
 having an explicit pre-trained model in a domain-specific dataset (document dataset). The ConvNext V2 model, which incorporates elements of self-attention from transformers, significantly improves document image classification performance on the Tobacco-3482 dataset, achieving a 92.25% accuracy with fast convergence. This suggests that pre-training on ImageNet alone can be highly effective without additional domain-specific training.  
 
-<img src="images/colage.png" style="max-width: 70%; height: auto;">  
+<img src="images/colage.jpg" style="max-width: 70%; height: auto;">  
 <br><br>
 <br>
 
