@@ -15,7 +15,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1" style="color: blue;">Google Scholar</a>. </div>
 <div class="wordwrap"> My latest <a href="https://drive.google.com/file/d/1g8TKk-dQo5wxPrOqyS6hOfrZyRQPWQ6I/view?usp=sharing" style="color: blue;">CV</a>. </div>
 
-Check my latest projects here:<a href="https://mdsaydurrahman.github.io/Saydur.github.io/projects/" style="color: blue;">Projects</a>. </div> 
+<div class="wordwrap"> Check my latest projects here:<a href="https://mdsaydurrahman.github.io/Saydur.github.io/projects/" style="color: blue;">Projects</a>. </div> 
 
 <br>
 
