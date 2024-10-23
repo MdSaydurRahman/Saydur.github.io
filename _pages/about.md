@@ -34,7 +34,8 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   <li> Oct 2020: Started Ph.D at UC Riverside</li>
   <li> Nov 2019: Paper accepted at the <em>IEEE RAAICON</em>.</li>
  
-  
+   <h2 style="color:  #0f0e0e;">Projects</h2>
+   
 {% if site.talkmap_link == true %}
 **Security in Wiretap Channel:** ``STEEP'' enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. \href{https://arxiv.org/abs/2403.06438}{\color{blue}ICC'24}
 \vspace{.2cm}
