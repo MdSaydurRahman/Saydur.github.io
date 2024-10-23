@@ -76,7 +76,7 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 
 
 <h3 style="color: #0f0e0e;">Low-Latency Multi-Access (MA) STEEP</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10621876" style="color: blue;">LANMAN'24</a>  
-"MA-STEEP" between User Equipment (UEs) and an Access Point (AP) allows all UEs to utilize a common sequence of probes broadcast by the AP. This low-latency method demonstrates positive secrecy with high probability, and the total secrecy capacity increases with the number of UEs, unlike methods using a common nonce.  
+For applications like Virtual Reality, Artificial Intelligence, federated learning, and autonomous driving, next-generation networks must enable low-latency secure multiple access. This is essential for local wireless connections among numerous devices with limited spectral resources, while security and privacy remain top priorities for both designers and consumers. Low latency is crucial for real-time control systems and high-quality user experiences. This paper proposes a physical layer security method to achieve multiple access, security, and low latency. "MA-STEEP" between User Equipment (UEs) and an Access Point (AP) allows all UEs to utilize a common sequence of probes broadcast by the AP. This low-latency method demonstrates positive secrecy with high probability, and the total secrecy capacity increases with the number of UEs, unlike methods using a common nonce.  
 
 <br>
 
