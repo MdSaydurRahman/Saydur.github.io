@@ -64,7 +64,7 @@ In phase 2, Bob echoes back his estimated probes encrypted by a secret message m
 <br>
 
 
-<h4 style="color: #0f0e0e;">UAV Against Jamming</h4>  
+<h4 style="color: #0f0e0e;">Unmanned Aerial Vehicle Against Jamming</h4>  
 In this UAV communication against jamming, we first consider a network as illustrated in Fig. Here Alice and Eve are ground stations with \( n_A \) and \( n_E \) antennas respectively. Eve is capable of jamming and receiving in full-duplex. Bob is the UAV with a single antenna. Unmanned Aerial Vehicle (UAV) assisted wireless communication has emerged as a highly promising element in the landscape of future wireless networks. This work investigates the application of “Secret-message Transmission by Echoing Encrypted Probes (STEEP)” to secure UAV communications between a ground station (Alice) and a UAV (Bob). Even with the presence of strong jamming from a full-duplex eavesdropper (Eve), STEEP shows resilience and maintains a strong positive secrecy rate in bits per channel use in every channel coherence period as long as Eve’s observations during the probing phase of STEEP are not noiseless.
 
 <img src="images/uav.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 60%; height: auto;">  
@@ -79,10 +79,42 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 "MA-STEEP" between User Equipment (UEs) and an Access Point (AP) allows all UEs to utilize a common sequence of probes broadcast by the AP. This low-latency method demonstrates positive secrecy with high probability, and the total secrecy capacity increases with the number of UEs, unlike methods using a common nonce.  
 
 <br>
+<h4 style="color: #0f0e0e;">SDoF in Full-Duplex Wireless Networks</h4>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
+<p>
+    The research demonstrates that full-duplex nodes utilizing 
+    <strong>Active Noise and Echo Cancellation with Enhanced Cooperative 
+    Estimation (ANECE)</strong> with collaborative pilots can achieve a 
+    positive <strong>Secrecy Degrees of Freedom (SDoF)</strong>. This is 
+    significant because it indicates resilience against eavesdropping, 
+    independent of the eavesdropper's antenna count.
+</p>
 
+<h4 style="color: #0f0e0e;">Two-Phase Transmission Mechanism</h4>
+<p>
+    The ANECE method consists of two distinct phases:
+    <ul>
+        <li><strong>Phase 1:</strong> Dedicated to sending pilot signals.</li>
+        <li><strong>Phase 2:</strong> Involves transmitting random symbols.</li>
+    </ul>
+    The SDoF is split between these two phases, each with conditions for 
+    optimal performance.
+</p>
 
-<h4 style="color: #0f0e0e;">SDoF Using Collaborative Pilots</h4>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
-The Secure Degree of Freedom (SDoF) of a multi-user, multi-antenna, full-duplex wireless network with secret information transmission is analyzed using multi-user, multi-antenna ANECE against multi-antenna Eve. Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
+<h4 style="color: #0f0e0e;">Comparative Performance: Multi-User vs. Pair-Wise ANECE</h4>
+<p>
+    Multi-user ANECE can achieve the same SDoF in the first phase as 
+    pair-wise ANECE but requires fewer time slots, making it more efficient. 
+    For a network with three users, the phase-2 SDoF of multi-user ANECE 
+    tends to surpass that of the pair-wise approach.
+</p>
+
+<h4 style="color: #0f0e0e;">Enhanced Performance in Modified Two-User ANECE</h4>
+<p>
+    The study proposes a modification for a two-user scenario that utilizes 
+    square-shaped nonsingular pilot matrices. This adjustment leads to a 
+    higher total SDoF than the traditional ANECE, especially when users 
+    have differing antenna counts.
+</p>
 
 <br>
 
