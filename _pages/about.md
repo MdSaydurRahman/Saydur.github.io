@@ -39,43 +39,50 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 **Security in Wiretap Channel:**  
 "STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers.  
-<a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a>
+<a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a>  
+<br>
 
 ---
 
 **UAV Against Jamming:**  
 In the presence of strong jamming from a full-duplex eavesdropper, the novel scheme "STEEP" maintains a strong positive secrecy rate in bits per channel use during each channel coherence period. Theoretical and numerical results demonstrate secure aerial communication even against a stronger ground jammer.  
-<a href="#" style="color: blue;">Asilomar'24</a>
+<a href="#" style="color: blue;">Asilomar'24</a>  
+<br>
 
 ---
 
 **Low-Latency Multi-Access (MA) STEEP:**  
 "MA-STEEP" between User Equipment (UEs) and an Access Point (AP) allows all UEs to utilize a common sequence of probes broadcast by the AP. This low-latency method demonstrates positive secrecy with high probability, and the total secrecy capacity increases with the number of UEs, unlike methods using a common nonce.  
-<a href="https://ieeexplore.ieee.org/abstract/document/10621876" style="color: blue;">LANMAN'24</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10621876" style="color: blue;">LANMAN'24</a>  
+<br>
 
 ---
 
 **SDoF Using Collaborative Pilots:**  
 The Secure Degree of Freedom (SDoF) of a multi-user, multi-antenna, full-duplex wireless network with secret information transmission is analyzed using multi-user, multi-antenna ANECE against multi-antenna Eve. Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
-<a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
+<br>
 
 ---
 
 **Domain Adaptation:**  
 Evaluating source-free domain adaptation models in location-based adaptive learning for weather forecasting, building load, and solar/wind power prediction. A pre-trained model from the source domain is utilized for prediction tasks, assuming no source data during target domain prediction. The weights of only the last few layers of the DNN model are updated, making the model faster compared to traditional approaches.  
-<a href="https://ieeexplore.ieee.org/abstract/document/10407265" style="color: blue;">ETFG'23</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10582569" style="color: blue;">GPECOM'24</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10407265" style="color: blue;">ETFG'23</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10582569" style="color: blue;">GPECOM'24</a>  
+<br>
 
 ---
 
 **Gait Phase Classification:**  
 A novel deep learning model incorporating Bi-GRU and transformer encoders with a gating mechanism efficiently regulates the flow of information between encoders. Achieving better accuracy in most cases, the model includes several locomotion modes, surpassing prior research focused solely on simple level-ground conditions.  
-<a href="https://link.springer.com/chapter/10.1007/978-981-97-3562-4_29" style="color: blue;">ICICT'24</a>
+<a href="https://link.springer.com/chapter/10.1007/978-981-97-3562-4_29" style="color: blue;">ICICT'24</a>  
+<br>
 
 ---
 
 **Document Image Classification:**  
 The ConvNext V2 model, which incorporates elements of self-attention from transformers, significantly improves document image classification performance on the Tobacco-3482 dataset, achieving a 92.25% accuracy with fast convergence. This suggests that pre-training on ImageNet alone can be highly effective without additional domain-specific training.  
-<a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.172254255.56093481" style="color: blue;">CITDS'24</a>
+<a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.172254255.56093481" style="color: blue;">CITDS'24</a>  
+<br>
 
 
 
