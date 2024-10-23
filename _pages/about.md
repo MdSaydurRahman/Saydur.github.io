@@ -59,7 +59,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 <img src="images/steep1.drawio.png" alt="STEEP Principle Diagram" style="max-width: 60%; height: auto;">  
 <br><br>
 
-In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob.
+In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob.  STEEP does not require full-duplex, channel reciprocity, or knowledge of Eve's channel state information, yet it can achieve a positive secrecy rate as long as Eve's channel is not noiseless. This paper provides insights into the statistical behaviors of STEEP's secrecy capacity under random channel fading and compares it with conventional half-duplex two-way schemes. The analysis shows that STEEP can maintain a positive secrecy rate even when Eve's channel is stronger than the main channel, a property not available in prior schemes. The paper includes theoretical analysis, computer simulations, and comparisons to demonstrate the effectiveness and robustness of STEEP in various scenarios.
  
 <br>
 
@@ -79,42 +79,11 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 "MA-STEEP" between User Equipment (UEs) and an Access Point (AP) allows all UEs to utilize a common sequence of probes broadcast by the AP. This low-latency method demonstrates positive secrecy with high probability, and the total secrecy capacity increases with the number of UEs, unlike methods using a common nonce.  
 
 <br>
-<h4 style="color: #0f0e0e;">SDoF in Full-Duplex Wireless Networks</h4>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
-<p>
-    The research demonstrates that full-duplex nodes utilizing 
-    <strong>Active Noise and Echo Cancellation with Enhanced Cooperative 
-    Estimation (ANECE)</strong> with collaborative pilots can achieve a 
-    positive <strong>Secrecy Degrees of Freedom (SDoF)</strong>. This is 
-    significant because it indicates resilience against eavesdropping, 
-    independent of the eavesdropper's antenna count.
-</p>
 
-<h4 style="color: #0f0e0e;">Two-Phase Transmission Mechanism</h4>
-<p>
-    The ANECE method consists of two distinct phases:
-    <ul>
-        <li><strong>Phase 1:</strong> Dedicated to sending pilot signals.</li>
-        <li><strong>Phase 2:</strong> Involves transmitting random symbols.</li>
-    </ul>
-    The SDoF is split between these two phases, each with conditions for 
-    optimal performance.
-</p>
+<h4 style="color: #0f0e0e;">SDoF Using Collaborative Pilots</h4>  
+The Secure Degree of Freedom (SDoF) of a multi-user, multi-antenna, full-duplex wireless network with secret information transmission is analyzed using multi-user, multi-antenna ANECE against multi-antenna Eve. Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
+<a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>  
 
-<h4 style="color: #0f0e0e;">Comparative Performance: Multi-User vs. Pair-Wise ANECE</h4>
-<p>
-    Multi-user ANECE can achieve the same SDoF in the first phase as 
-    pair-wise ANECE but requires fewer time slots, making it more efficient. 
-    For a network with three users, the phase-2 SDoF of multi-user ANECE 
-    tends to surpass that of the pair-wise approach.
-</p>
-
-<h4 style="color: #0f0e0e;">Enhanced Performance in Modified Two-User ANECE</h4>
-<p>
-    The study proposes a modification for a two-user scenario that utilizes 
-    square-shaped nonsingular pilot matrices. This adjustment leads to a 
-    higher total SDoF than the traditional ANECE, especially when users 
-    have differing antenna counts.
-</p>
 
 <br>
 
