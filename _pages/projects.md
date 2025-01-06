@@ -48,7 +48,7 @@ It explores the secure degree-of-freedom (SDoF) of a wireless network comprising
 <br>
 
 
-<h3 style="color: #0f0e0e;">Domain Adaptation</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10407265" style="color: blue;">ETFG'23</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10582569" style="color: blue;">GPECOM'24</a>  | <a href="https://ieeexplore.ieee.org/abstract/document/10758045" style="color: blue;">EpEi'24</a>  
+<h3 style="color: #0f0e0e;">Domain Adaptation</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10407265" style="color: blue;">ETFG'23</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10582569" style="color: blue;">GPECOM'24</a>  | <a href="https://ieeexplore.ieee.org/abstract/document/10758045" style="color: blue;">EPEi'24</a>  
 
 
 Evaluating source-free domain adaptation models in location-based adaptive learning for weather forecasting, building load, and solar/wind power prediction. A pre-trained model from the source domain is utilized for prediction tasks, assuming no source data during target domain prediction. The weights of only the last few layers of the DNN model are updated, making the model faster compared to traditional approaches.  
