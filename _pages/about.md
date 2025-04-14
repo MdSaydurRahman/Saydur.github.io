@@ -38,7 +38,6 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
   <li> Aug 2024: Received the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7231977654407610368/" style="color: red;">Best Paper Award</a>. at the <em>IEEE LANMAN</em>.</li>
   <li> Jul 2024: Paper accepted at the <em>IEEE LANMAN</em>.</li>
   <li> Jun 2024: Paper accepted at the <em>IEEE ICC</em>.</li>
-  <li> Apr 2024: Paper accepted at the <em>GPECOM</em>.</li>
   <li> Mar 2024: Got Masters' degree in Electrical Engineering from UC Riverside.</li>
   <li> Feb 2024: Paper accepted at the <em>ICICT</em>.</li>
   <li> Nov 2023: Paper accepted at the <em>IEEE ETFG</em>.</li>
