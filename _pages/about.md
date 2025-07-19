@@ -32,7 +32,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
-
+  <li> Jul 2025: Journal Paper submitted at the <em>IEEE Transaction on Wireless Communication </em> </li>
   <li> Oct 2024: Paper presented at the <em>Asilomar </em> in Pacific Grove.</li>
   <li> Sep 2024: Poster presented at <em>Department of Defense NC4</em>.</li>
   <li> Aug 2024: Received the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7231977654407610368/" style="color: red;">Best Paper Award</a>. at the <em>IEEE LANMAN</em>.</li>
