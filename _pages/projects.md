@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: True
 ---
 
-   
+
 <h3 style="color: #0f0e0e;">Positive Secrecy with novel STEEP in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
 
 "STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
@@ -34,6 +34,15 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 
 
 <br>
+
+
+<h3 style="color: #0f0e0e;">STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Eavesdropper</h3>  <a Transcation of Wireless Communication'24</a> 
+
+We focus on an aggressive eavesdropper (Eve) who has multiple antennas and is capable of jamming and eavesdropping in the full-duplex mode. Assuming optimal jamming and eavesdropping by Eve, we present the secrecy rates achievable by STEEP in two forms: using SIMO channel in phase 1 and using MISO channel in phase 2, and vice versa. With any given channel condition between every pair of nodes and a finite jamming power by Eve, the secrecy rate of STEEP in either form is shown to be positive subject to a sufficiently large power in phase 2.Detailed analytical results of STEEP for secure  communications over SIMO and MISO channels subject to full-duplex jamming and eavesdropping from a multiantenna Eve are shown for the first time. Optimal jamming from the multi-antenna Eve against both single-antenna user and multi-antenna user is incorporated for the first time into the analysis and results. Extensive simulation results are for the first time provided to illustrate the secrecy-rate advantages of STEEP over the conventional SIMO or MISO scheme. 
+
+<br>
+   
+
 
 <h3 style="color: #0f0e0e;">Low-Latency Multi-Access (MA) STEEP</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10621876" style="color: blue;">LANMAN'24</a> 
 
