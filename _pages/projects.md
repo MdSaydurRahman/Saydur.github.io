@@ -30,9 +30,6 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 
 <img src="../images/jam.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 75%; height: auto;">
 
-<a href="#" style="color: blue;">Asilomar'24</a>  
-
-
 <br>
 
 
