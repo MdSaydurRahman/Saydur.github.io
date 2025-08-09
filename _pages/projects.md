@@ -19,7 +19,7 @@ In phase 2, Bob echoes back his estimated probes encrypted by a secret message m
 
 <br>
 
-<h3 style="color: #0f0e0e;">Unmanned Aerial Vehicle Communication Against Jamming</h3>  
+<h3 style="color: #0f0e0e;">Unmanned Aerial Vehicle Communication Against Jamming</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10942812" style="color: blue;">Asilomar'24</a> 
 
 <img src="../images/uav.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 50%; height: auto;">
 
