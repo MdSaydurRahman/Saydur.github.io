@@ -33,7 +33,7 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 <br>
 
 
-<h3 style="color: #0f0e0e;">STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Eavesdropper</h3> </a> 
+<h3 style="color: #0f0e0e;">STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Eavesdropper</h3> 
 
 We focus on an aggressive eavesdropper (Eve) who has multiple antennas and is capable of jamming and eavesdropping in the full-duplex mode. Assuming optimal jamming and eavesdropping by Eve, we present the secrecy rates achievable by STEEP in two forms: using SIMO channel in phase 1 and using MISO channel in phase 2, and vice versa. With any given channel condition between every pair of nodes and a finite jamming power by Eve, the secrecy rate of STEEP in either form is shown to be positive subject to a sufficiently large power in phase 2.Detailed analytical results of STEEP for secure  communications over SIMO and MISO channels subject to full-duplex jamming and eavesdropping from a multiantenna Eve are shown for the first time. Optimal jamming from the multi-antenna Eve against both single-antenna user and multi-antenna user is incorporated for the first time into the analysis and results. Extensive simulation results are for the first time provided to illustrate the secrecy-rate advantages of STEEP over the conventional SIMO or MISO scheme. 
 
