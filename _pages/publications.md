@@ -12,7 +12,7 @@ author_profile: true
 
 
 
-* **MS Rahman**, and Y. Hua, "Investigation of STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Jamming and Eavesdropping," under review in IEEE Transactions on Wireless Communications, 2025.
+* **MS Rahman**, and Y. Hua, "Investigation of STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Jamming and Eavesdropping," under review in *IEEE Transactions on Wireless Communications*, 2025.
 
 * **MS Rahman**, and Y. Hua, "Secure UAV Communications By STEEP Against Full-Duplex Active Eavesdropper," in *58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2024.
 
