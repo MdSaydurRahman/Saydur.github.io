@@ -8,7 +8,7 @@ redirect_from:
 ---
  <h1 style="color:  #0f0e0e;">Bio</h1>
 <br>
-I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the University of California Riverside (UCR), and I am expected to graduate in 2025. I have completed my Master's in Electrical Engineering from University of California Riverside (UCR) and Bachelor's in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (BUET). Currently, I am working as a Research Assistant under the supervision of Professor 
+I am Md Saydur Rahman, a Ph.D. graduate in Electrical Engineering at the University of California Riverside (UCR). I have completed my Master's in Electrical Engineering from University of California Riverside (UCR) and Bachelor's in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (BUET). Currently, I am working as a Research Assistant under the supervision of Professor 
 <a href="https://intra.ece.ucr.edu/~yhua/" style="color: blue;">Yingbo Hua</a>. My research interest involves Wireless Physical Layer Security, 5g Low-latency Communication, Domain adaptation-based Deep learning, and Federated learning. 
 <div class="wordwrap">  
   You can also find my latest articles/publications on  
@@ -21,7 +21,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 <h1 style="color: #0f0e0e;">Education</h1>  
 
-- **Ph.D**: University of California, Riverside (UCR), expected completion by 2025  
+- **Ph.D**: University of California, Riverside (UCR), September 2025  
 
 - **M.Sc**: University of California, Riverside (UCR), March 2024  
 
@@ -32,6 +32,7 @@ I am Md Saydur Rahman currently a Ph.D. student in Electrical Engineering at the
 
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
+  <li> Sep 2025: PhD Defense completed <em>UC Riverside</em>.</li>
   <li> Jul 2025: Journal Paper submitted at the <em>IEEE Transaction on Wireless Communication </em> </li>
   <li> Oct 2024: Paper presented at the <em>Asilomar </em> in Pacific Grove.</li>
   <li> Sep 2024: Poster presented at <em>Department of Defense NC4</em>.</li>
