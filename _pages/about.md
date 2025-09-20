@@ -32,7 +32,7 @@ I am Md Saydur Rahman, a Ph.D. graduate in Electrical Engineering at the Univers
 
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
-  <li> Sep 2025: PhD Defense completed <em>UC Riverside</em>.</li>
+  <li> Sep 2025: PhD Defense completed at <em>UC Riverside</em>.</li>
   <li> Jul 2025: Journal Paper submitted at the <em>IEEE Transaction on Wireless Communication </em> </li>
   <li> Oct 2024: Paper presented at the <em>Asilomar </em> in Pacific Grove.</li>
   <li> Sep 2024: Poster presented at <em>Department of Defense NC4</em>.</li>
