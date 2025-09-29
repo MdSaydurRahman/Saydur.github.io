@@ -8,7 +8,9 @@ redirect_from:
 ---
  <h1 style="color:  #0f0e0e;">Bio</h1>
 <br>
-I am Md Saydur Rahman, a Ph.D. graduate in Electrical Engineering at the University of California Riverside (UCR). I have completed my Master's in Electrical Engineering from University of California Riverside (UCR) and Bachelor's in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (BUET). I worked as a Research Assistant under the supervision of Professor 
+I am Md Saydur Rahman, a research engineer. I currently work with Akkodis, Inc. and contribute to General Motors (GM) R&D as a research engineer in the Connected and Autonomous Vehicle project. 
+
+I completed my Ph.D. in Electrical Engineering at the University of California, Riverside (UCR). I have completed my Master's in Electrical Engineering from University of California Riverside (UCR) and Bachelor's in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (BUET). I worked as a Research Assistant under the supervision of Professor 
 <a href="https://intra.ece.ucr.edu/~yhua/" style="color: blue;">Yingbo Hua</a>. My research interest involves Autonomous Vehicle Mapping, Wireless Security, 5G Low-latency Communication, and Domain adaptation-based Deep learning. 
 <div class="wordwrap">  
   You can also find my latest articles/publications on  
