@@ -34,7 +34,7 @@ I completed my Ph.D. in Electrical Engineering at the University of California, 
 
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
-  <li> Oct 2025: Joined as a Connected and Autonomous Vehicle Engineer at <em>Akkodis Inc</em>.</li>
+  <li> Oct 2025: Joined as a Research Engineer at <em>Akkodis Inc</em>.</li>
   <li> Sep 2025: PhD completed at <em>UC Riverside</em>.</li>
   <li> Jul 2025: Journal Paper submitted at the <em>IEEE Transaction on Wireless Communication </em> </li>
   <li> Oct 2024: Paper presented at the <em>Asilomar </em> in Pacific Grove.</li>
