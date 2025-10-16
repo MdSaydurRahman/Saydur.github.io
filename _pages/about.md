@@ -47,7 +47,6 @@ I completed my Ph.D. in Electrical Engineering at the University of California, 
   <li> Jul 2023: Journal Accepted at <em>IEEE Transaction on Signal Processing</em>.</li>
   <li> Sep 2022: Poster presented at <em>Department of Defense NC4</em></li>
   <li> Oct 2020: Started Ph.D at UC Riverside</li>
-  <li> Nov 2019: Paper accepted at the <em>IEEE RAAICON</em>.</li>
   
  
 
