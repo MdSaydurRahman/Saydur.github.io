@@ -18,6 +18,7 @@ I completed my Ph.D. in Electrical Engineering at the University of California, 
 
 <div class="wordwrap"> Check my latest <a href="https://mdsaydurrahman.github.io/Saydur.github.io/projects/" style="color: blue;">Projects</a>. </div> 
 
+
 <br>
 
 <h1 style="color: #0f0e0e;">Education</h1>  
@@ -28,8 +29,12 @@ I completed my Ph.D. in Electrical Engineering at the University of California, 
 
 - **B.Sc**: Bangladesh University of Engineering and Technology (BUET), September 2017
  <br>
+
+
  
 <br>
+
+
 
 <div class="news-section">
   <h1 style="color:  #0f0e0e;">Latest News</h1>
