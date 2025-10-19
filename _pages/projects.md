@@ -6,19 +6,6 @@ author_profile: True
 ---
 
 
-<h3 style="color: #0f0e0e;">Positive Secrecy with novel STEEP in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
-
-"STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
-
-
-<img src="../images/steep1.drawio.png" alt="STEEP Principle" style="max-width: 50%; height: auto;">
-
-
-In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob.  STEEP does not require full-duplex, channel reciprocity, or knowledge of Eve's channel state information, yet it can achieve a positive secrecy rate as long as Eve's channel is not noiseless. This paper provides insights into the statistical behaviors of STEEP's secrecy capacity under random channel fading and compares it with conventional half-duplex two-way schemes. The analysis shows that STEEP can maintain a positive secrecy rate even when Eve's channel is stronger than the main channel, a property not available in prior schemes. The paper includes theoretical analysis, computer simulations, and comparisons to demonstrate the effectiveness and robustness of STEEP in various scenarios.
- 
-
-<br>
-
 <h3 style="color: #0f0e0e;">Unmanned Aerial Vehicle Communication Against Jamming</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10942812" style="color: blue;">Asilomar'24</a> 
 
 <img src="../images/uav.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 50%; height: auto;">
@@ -31,7 +18,24 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 <img src="../images/jam.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 75%; height: auto;">
 
 <br>
+<h3 style="color: #0f0e0e;">SDoF of Wireless Networks using Collaborative Pilots</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>
 
+It explores the secure degree-of-freedom (SDoF) of a wireless network comprising full-duplex nodes that utilize anti-eavesdropping channel estimation (ANECE) based on collaborative pilots. It demonstrates that a positive SDoF can be achieved, regardless of the eavesdropper's antenna count. The study analyzes the secret-key capacity (SKC) of node pairs over multiple collaborative nodes within a channel coherence period, with each ANECE transmission consisting of two phases: one for pilot transmission and the other for random symbols. It shows the lower and upper bounds for the SDoF of ANECE and presents several critical findings: the SDoF for pilot transmission is consistent across multi-user and pair-wise ANECE, although the latter requires more time slots; in a three-user network, the phase-2 SDoF for all-user ANECE exceeds that of pair-wise ANECE; and a modified ANECE using square-shaped nonsingular pilot matrices enhances total SDoF in two-user networks. The results indicate that multi-user ANECE and the modified two-user ANECE represent optimal full-duplex schemes for achieving SDoF with specific antenna constraints for both transmission and reception.  Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
+
+<br>
+
+<h3 style="color: #0f0e0e;">Positive Secrecy with novel STEEP in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
+
+"STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
+
+
+<img src="../images/steep1.drawio.png" alt="STEEP Principle" style="max-width: 50%; height: auto;">
+
+
+In phase 2, Bob echoes back his estimated probes encrypted by a secret message meant for Alice via a return channel. Since Alice knows the exact probes, the effective wiretap channel system from Bob to Alice and Eve, relative to the secret message from Bob, is such that the effective return channel from Bob to Alice is stronger than that from Bob to Eve, subject to a sufficient amount of power from Bob.  STEEP does not require full-duplex, channel reciprocity, or knowledge of Eve's channel state information, yet it can achieve a positive secrecy rate as long as Eve's channel is not noiseless. This paper provides insights into the statistical behaviors of STEEP's secrecy capacity under random channel fading and compares it with conventional half-duplex two-way schemes. The analysis shows that STEEP can maintain a positive secrecy rate even when Eve's channel is stronger than the main channel, a property not available in prior schemes. The paper includes theoretical analysis, computer simulations, and comparisons to demonstrate the effectiveness and robustness of STEEP in various scenarios.
+ 
+
+<br>
 
 <h3 style="color: #0f0e0e;">STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Eavesdropper</h3> 
 
@@ -48,11 +52,7 @@ For applications like Virtual Reality, Artificial Intelligence, federated learni
 
 <br>
 
-<h3 style="color: #0f0e0e;">SDoF of Wireless Networks using Collaborative Pilots</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>
 
-It explores the secure degree-of-freedom (SDoF) of a wireless network comprising full-duplex nodes that utilize anti-eavesdropping channel estimation (ANECE) based on collaborative pilots. It demonstrates that a positive SDoF can be achieved, regardless of the eavesdropper's antenna count. The study analyzes the secret-key capacity (SKC) of node pairs over multiple collaborative nodes within a channel coherence period, with each ANECE transmission consisting of two phases: one for pilot transmission and the other for random symbols. It shows the lower and upper bounds for the SDoF of ANECE and presents several critical findings: the SDoF for pilot transmission is consistent across multi-user and pair-wise ANECE, although the latter requires more time slots; in a three-user network, the phase-2 SDoF for all-user ANECE exceeds that of pair-wise ANECE; and a modified ANECE using square-shaped nonsingular pilot matrices enhances total SDoF in two-user networks. The results indicate that multi-user ANECE and the modified two-user ANECE represent optimal full-duplex schemes for achieving SDoF with specific antenna constraints for both transmission and reception.  Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
-
-<br>
 
 
 <h3 style="color: #0f0e0e;">Domain Adaptation</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10407265" style="color: blue;">ETFG'23</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10582569" style="color: blue;">GPECOM'24</a>  | <a href="https://ieeexplore.ieee.org/abstract/document/10758045" style="color: blue;">EPEi'24</a>  
