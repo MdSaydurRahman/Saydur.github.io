@@ -18,12 +18,14 @@ The novel scheme "STEEP" maintains a strong positive secrecy rate in bits per ch
 <img src="../images/jam.drawio.png" alt="STEEP with UAV against Jamming" style="max-width: 75%; height: auto;">
 
 <br>
-<h3 style="color: #0f0e0e;">SDoF of Wireless Networks using Collaborative Pilots</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>
 
-It explores the secure degree-of-freedom (SDoF) of a wireless network comprising full-duplex nodes that utilize anti-eavesdropping channel estimation (ANECE) based on collaborative pilots. It demonstrates that a positive SDoF can be achieved, regardless of the eavesdropper's antenna count. The study analyzes the secret-key capacity (SKC) of node pairs over multiple collaborative nodes within a channel coherence period, with each ANECE transmission consisting of two phases: one for pilot transmission and the other for random symbols. It shows the lower and upper bounds for the SDoF of ANECE and presents several critical findings: the SDoF for pilot transmission is consistent across multi-user and pair-wise ANECE, although the latter requires more time slots; in a three-user network, the phase-2 SDoF for all-user ANECE exceeds that of pair-wise ANECE; and a modified ANECE using square-shaped nonsingular pilot matrices enhances total SDoF in two-user networks. The results indicate that multi-user ANECE and the modified two-user ANECE represent optimal full-duplex schemes for achieving SDoF with specific antenna constraints for both transmission and reception.  Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
+
+<h3 style="color: #0f0e0e;">STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Eavesdropper</h3> 
+
+We focus on an aggressive eavesdropper (Eve) who has multiple antennas and is capable of jamming and eavesdropping in the full-duplex mode. Assuming optimal jamming and eavesdropping by Eve, we present the secrecy rates achievable by STEEP in two forms: using SIMO channel in phase 1 and using MISO channel in phase 2, and vice versa. With any given channel condition between every pair of nodes and a finite jamming power by Eve, the secrecy rate of STEEP in either form is shown to be positive subject to a sufficiently large power in phase 2.Detailed analytical results of STEEP for secure  communications over SIMO and MISO channels subject to full-duplex jamming and eavesdropping from a multiantenna Eve are shown for the first time. Optimal jamming from the multi-antenna Eve against both single-antenna user and multi-antenna user is incorporated for the first time into the analysis and results. Extensive simulation results are for the first time provided to illustrate the secrecy-rate advantages of STEEP over the conventional SIMO or MISO scheme. 
 
 <br>
-
+   
 <h3 style="color: #0f0e0e;">Positive Secrecy with novel STEEP in Wiretap Channel</h3>  <a href="https://arxiv.org/abs/2403.06438" style="color: blue;">ICC'24</a> 
 
 "STEEP" enables secure message transmission in a MISO fading channel from Alice to Bob, even when Eve's channels are stronger. It unifies principles in wiretap channel transmission and secret key generation, superseding any known models for guaranteed positive secrecy against stronger eavesdroppers. The principle of STEEP consists of two phases of interdependent operations: phases 1 and 2. In phase 1, a node (Alice) sends random probing symbols (also called probes) over a probing channel to another node (Bob). In this phase, Bob obtains some estimates of the probes, which could be noisy. While the estimates of the probes by Eve cannot be noiseless, they are allowed to be less noisy than those by Bob.  
@@ -37,12 +39,6 @@ In phase 2, Bob echoes back his estimated probes encrypted by a secret message m
 
 <br>
 
-<h3 style="color: #0f0e0e;">STEEP for Secure Communications Over SIMO and MISO Channels Subject to Full-Duplex Eavesdropper</h3> 
-
-We focus on an aggressive eavesdropper (Eve) who has multiple antennas and is capable of jamming and eavesdropping in the full-duplex mode. Assuming optimal jamming and eavesdropping by Eve, we present the secrecy rates achievable by STEEP in two forms: using SIMO channel in phase 1 and using MISO channel in phase 2, and vice versa. With any given channel condition between every pair of nodes and a finite jamming power by Eve, the secrecy rate of STEEP in either form is shown to be positive subject to a sufficiently large power in phase 2.Detailed analytical results of STEEP for secure  communications over SIMO and MISO channels subject to full-duplex jamming and eavesdropping from a multiantenna Eve are shown for the first time. Optimal jamming from the multi-antenna Eve against both single-antenna user and multi-antenna user is incorporated for the first time into the analysis and results. Extensive simulation results are for the first time provided to illustrate the secrecy-rate advantages of STEEP over the conventional SIMO or MISO scheme. 
-
-<br>
-   
 
 
 <h3 style="color: #0f0e0e;">Low-Latency Multi-Access (MA) STEEP</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10621876" style="color: blue;">LANMAN'24</a> 
@@ -52,6 +48,11 @@ For applications like Virtual Reality, Artificial Intelligence, federated learni
 
 <br>
 
+<h3 style="color: #0f0e0e;">SDoF of Wireless Networks using Collaborative Pilots</h3>  <a href="https://ieeexplore.ieee.org/abstract/document/10235266" style="color: blue;">TSP'23</a>
+
+It explores the secure degree-of-freedom (SDoF) of a wireless network comprising full-duplex nodes that utilize anti-eavesdropping channel estimation (ANECE) based on collaborative pilots. It demonstrates that a positive SDoF can be achieved, regardless of the eavesdropper's antenna count. The study analyzes the secret-key capacity (SKC) of node pairs over multiple collaborative nodes within a channel coherence period, with each ANECE transmission consisting of two phases: one for pilot transmission and the other for random symbols. It shows the lower and upper bounds for the SDoF of ANECE and presents several critical findings: the SDoF for pilot transmission is consistent across multi-user and pair-wise ANECE, although the latter requires more time slots; in a three-user network, the phase-2 SDoF for all-user ANECE exceeds that of pair-wise ANECE; and a modified ANECE using square-shaped nonsingular pilot matrices enhances total SDoF in two-user networks. The results indicate that multi-user ANECE and the modified two-user ANECE represent optimal full-duplex schemes for achieving SDoF with specific antenna constraints for both transmission and reception.  Novel results on SDoF are shown by analyzing the secret-key capacity of each pair of nodes in a network of multiple collaborative nodes per channel coherence period.  
+
+<br>
 
 
 
