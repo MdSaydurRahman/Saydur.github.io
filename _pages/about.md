@@ -10,7 +10,7 @@ redirect_from:
 <br>
 Md Saydur Rahman, Research Engineer at **Akkodis**, Inc., spearheading innovation in Connected and Autonomous Vehicles (CAV) projects through deep learning and computer vision-based advanced system design, coding, and on-road testing. I develop cutting-edge CAV systems, seamlessly integrating GPS data, wireless sensors, cloud, and edge computing to enhance driving safety and transportation efficiency.
 
-I completed my Ph.D. in Electrical Engineering at the University of California, Riverside (UCR). I worked as a Research Assistant under the supervision of Professor <a href="https://intra.ece.ucr.edu/~yhua/" style="color: blue;">Yingbo Hua</a>. My research interest involves Autonomous Vehicle Mapping, Wireless Security, 5G Low-latency Communication, and Domain adaptation-based Deep learning. 
+I completed my Ph.D. in Electrical Engineering at the University of California, Riverside (UCR). My research interest involves Autonomous Vehicle Mapping, Wireless Security, 5G Low-latency Communication, and Domain adaptation-based Deep learning. 
 <div class="wordwrap">  
   You can also find my latest articles/publications on  
   <a href="https://scholar.google.com/citations?user=Zbf4zyUAAAAJ&hl=en&authuser=1" style="color: blue;">Google Scholar</a>. </div>
