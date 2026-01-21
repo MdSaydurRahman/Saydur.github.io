@@ -8,7 +8,7 @@ redirect_from:
 ---
  <h1 style="color:  #0f0e0e;">Bio</h1>
 <br>
-Md Saydur Rahman, Research Engineer at **Akkodis**, Inc., spearheading innovation in Connected and Autonomous Vehicles (CAV) projects through deep learning and computer vision-based advanced system design, coding, and on-road testing. I develop cutting-edge CAV systems, seamlessly integrating GPS data, wireless sensors, cloud, and edge computing to enhance driving safety and transportation efficiency.
+Md Saydur Rahman, Research Engineer at **Akkodis**, Inc., spearheading **General Motors** innovation in Connected and Autonomous Vehicles (CAV) projects through deep learning and computer vision-based advanced system design, coding, and on-road testing. I develop cutting-edge CAV systems, seamlessly integrating GPS data, wireless sensors, cloud, and edge computing to enhance driving safety and transportation efficiency.
 
 I completed my Ph.D. in Electrical Engineering at the University of California, Riverside (UCR). My research interest involves Autonomous Vehicle Mapping, Wireless Security, 5G Low-latency Communication, and Domain adaptation-based Deep learning. 
 <div class="wordwrap">  
